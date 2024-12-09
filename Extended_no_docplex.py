@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug  4 09:17:36 2020
 
 @author: muffa
 """
